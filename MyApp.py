@@ -16,5 +16,5 @@ import pandas as pd
 #st.latex("\int_1^6sin(x)dx")
 #st.markdown("Esta es una vinieta")
 
-Click=st.button("Dale click")
+Click=st.button("Dale Click")
 st.write("El valor de cilck es",Click)

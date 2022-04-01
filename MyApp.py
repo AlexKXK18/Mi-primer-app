@@ -4,8 +4,9 @@ st.title("Mi primer app")
 #st.button("otro boton")
 import pandas as pd
 
-df = pd.read_csv('https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv')
+#Las siguintes lineas de cogido eran para visualizar
+#df = pd.read_csv('https://raw.githubusercontent.com/quantum-apps/mapa/main/data.csv')
 
-st.write(df)
+3st.write(df)
 
-st.map(df)
+#st.map(df)

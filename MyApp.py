@@ -11,3 +11,5 @@ import pandas as pd
 
 #st.map(df)
 st.text("Hola mundo")
+st.text("La siguiente es una integral")
+st.latex("\int")

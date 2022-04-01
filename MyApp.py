@@ -18,3 +18,6 @@ import pandas as pd
 
 Click=st.button("Dale Click")
 st.write("El valor de cilck es",Click)
+
+if Click==True:
+    st.image("Luffy.jpg")

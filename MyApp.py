@@ -9,8 +9,9 @@ import pandas as pd
 
 #st.write(df)
 
+#Agregue una ecuacion y una vinieta
 #st.map(df)
-st.text("Hola mundo")
-st.text("La siguiente es una integral")
-st.latex("\int_1^6sin(x)dx")
-st.markdown("Esta es una vinieta")
+#st.text("Hola mundo")
+#st.text("La siguiente es una integral")
+#st.latex("\int_1^6sin(x)dx")
+#st.markdown("Esta es una vinieta")

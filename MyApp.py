@@ -17,4 +17,4 @@ import pandas as pd
 #st.markdown("Esta es una vinieta")
 
 Click=st.button("Dale click")
-st.write("El valor de cilck es",click)
+st.write("El valor de cilck es",Click)

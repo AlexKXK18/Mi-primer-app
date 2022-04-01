@@ -12,4 +12,5 @@ import pandas as pd
 #st.map(df)
 st.text("Hola mundo")
 st.text("La siguiente es una integral")
-st.latex("\int_1_6")
+st.latex("\int_1^6sin(x)dx")
+st.markdown("Esta es una vinieta")

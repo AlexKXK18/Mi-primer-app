@@ -15,3 +15,6 @@ import pandas as pd
 #st.text("La siguiente es una integral")
 #st.latex("\int_1^6sin(x)dx")
 #st.markdown("Esta es una vinieta")
+
+Click=st.button("Dale click")
+st.write("El valor de cilck es",click)
